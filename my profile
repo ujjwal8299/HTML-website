@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ujjwal's Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: black;
+            color: gold;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: red;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Ujjwal's Personal Webpage</h1>
+    </header>
+    <div class="container">
+        <h2>About Me</h2>
+        <p>
+            Hello! My name is Ujjwal. I have over 6 years of professional IT experience, with a focus on Business Intelligence and data analytics tools like Power BI. I excel in communication, presentation, interpersonal, troubleshooting, and organizational skills.
+        </p>
+        <p>
+            My experience includes connecting with multiple data sources such as SQL Server, Oracle, and Excel to build complex datasets in Power BI. I have extensive experience in performing ETL activities and filtering unwanted data using Power Query.
+        </p>
+    </div>
+</body>
+</html>
